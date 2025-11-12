@@ -1,5 +1,5 @@
 <?php
-$target = 'https://www.TUOSITOARUBA.it/scopa_online/server.php'; // cambia qui
+$target = 'https://www.aldoprocida.it/scopa/server.php'; // cambia qui
 $ch = curl_init($target);
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 curl_setopt($ch, CURLOPT_POST, true);
